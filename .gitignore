@@ -1,0 +1,17 @@
+﻿# Claves y configuracion privada
+.env
+.streamlit/secrets.toml
+
+# Archivos pesados generados manualmente
+# La app desplegada usa data/diagnostico_express.sqlite y data/resultados/*.json.
+data/pdfs/*.pdf
+data/textos/*.txt
+
+# Cache de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
