@@ -1206,13 +1206,25 @@ with tab_diagnostico:
     render_diagnostico(conexion_app)
 
 with tab_comparador:
-    render_comparador_precedentes(conexion_app)
+    st.info(
+        "Funcionalidad en desarrollo. Este módulo forma parte de la hoja de ruta del MVP y será habilitado en una "
+        "siguiente etapa de desarrollo y validación. La versión actual prioriza el funcionamiento y validación del "
+        "Diagnóstico Express de Pertinencia SEIA."
+    )
 
 with tab_analitica:
-    render_analitica(conexion_app)
+    st.info(
+        "Funcionalidad en desarrollo. Este módulo forma parte de la hoja de ruta del MVP y será habilitado en una "
+        "siguiente etapa de desarrollo y validación. La versión actual prioriza el funcionamiento y validación del "
+        "Diagnóstico Express de Pertinencia SEIA."
+    )
 
 with tab_criterios:
-    render_criterios(conexion_app)
+    st.info(
+        "Funcionalidad en desarrollo. Este módulo forma parte de la hoja de ruta del MVP y será habilitado en una "
+        "siguiente etapa de desarrollo y validación. La versión actual prioriza el funcionamiento y validación del "
+        "Diagnóstico Express de Pertinencia SEIA."
+    )
 
 if conexion_app is not None:
     conexion_app.close()
