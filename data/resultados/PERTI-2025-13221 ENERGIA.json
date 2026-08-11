@@ -1,0 +1,36 @@
+{
+  "id_documento": "PERTI-2025-13221 ENERGIA",
+  "nombre_proyecto": "Modificación El Cerrillo Solar",
+  "region": "Region del Maule",
+  "comuna": "no determinado",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "fotovoltaico, modificacion de proyecto",
+  "proponente": "CERRILLO SOLAR SPA",
+  "fecha_resolucion": "28 de noviembre de 2024",
+  "resultado": "no debe ingresar al SEIA",
+  "debe_ingresar_al_seia": false,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Ley N° 19.880",
+    "Reglamento del SEIA"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "no requiere ingresar obligatoriamente al SEIA, en forma",
+      "nivel_confianza": "medio"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2025-13221 ENERGIA. Proyecto: Modificación El Cerrillo Solar. Region: Region del Maule. Comuna: no determinado. Resultado preliminar: no debe ingresar al SEIA. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "RCA",
+    "SEIA",
+    "almacenamiento",
+    "consulta de pertinencia",
+    "energia",
+    "fotovoltaico",
+    "humedal",
+    "modificacion de proyecto"
+  ]
+}

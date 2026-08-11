@@ -1,0 +1,33 @@
+{
+  "id_documento": "PERTI-2025-16310 ENERGIA",
+  "nombre_proyecto": "no determinado",
+  "region": "Region del Maule",
+  "comuna": "Molina",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "modificacion de proyecto",
+  "proponente": "no determinado",
+  "fecha_resolucion": "21 de noviembre de 2025",
+  "resultado": "no determinado",
+  "debe_ingresar_al_seia": null,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Reglamento del SEIA"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "--- Pagina 1 --- REPÚBLICA DE CHILE DIRECCIÓN REGIONAL SERVICIO DE EVALUACIÓN AMBIENTAL REGIÓN DEL MAULE SE PRONUNCIA SOBRE CONSULTA DE PERTINENCIA DE INGRESO AL SEIA DEL PROYECTO “INGRESO DE SUSTRATOS ORGÁNICOS A INSTALACIONES EXISTENTES”, PRESENTADA POR BIO ENERGÍA MOLINA SPA. RESOLUCIÓN EXENTA Talca, 28 de enero de 2026. VISTOS: 1. La presentaci",
+      "nivel_confianza": "bajo"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2025-16310 ENERGIA. Proyecto: no determinado. Region: Region del Maule. Comuna: Molina. Resultado preliminar: no determinado. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "RCA",
+    "SEIA",
+    "consulta de pertinencia",
+    "energia",
+    "humedal",
+    "modificacion de proyecto"
+  ]
+}

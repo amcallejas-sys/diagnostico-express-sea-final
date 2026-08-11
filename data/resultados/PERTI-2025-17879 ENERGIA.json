@@ -1,0 +1,35 @@
+{
+  "id_documento": "PERTI-2025-17879 ENERGIA",
+  "nombre_proyecto": "“BESS San Nicolas del Parral”",
+  "region": "Region del Maule",
+  "comuna": "Parral",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "almacenamiento de energia",
+  "proponente": "no determinado",
+  "fecha_resolucion": "28 de diciembre de 2025",
+  "resultado": "no determinado",
+  "debe_ingresar_al_seia": null,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Reglamento del SEIA"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "--- Pagina 1 --- REPÚBLICA DE CHILE DIRECCIÓN REGIONAL SERVICIO DE EVALUACIÓN AMBIENTAL REGIÓN DEL MAULE SE PRONUNCIA SOBRE CONSULTA DE PERTINENCIA DE INGRESO AL SEIA DEL PROYECTO “BESS SAN NICOLAS DEL PARRAL”, PRESENTADA POR SEÑOR HERNÁN ESTEBAN DIAZ MANCILLA, REPRESENTANTE LEGAL DE “SAN NICOLAS DEL PARRAL SPA”. RESOLUCIÓN EXENTA Talca, 13 de marz",
+      "nivel_confianza": "bajo"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2025-17879 ENERGIA. Proyecto: “BESS San Nicolas del Parral”. Region: Region del Maule. Comuna: Parral. Resultado preliminar: no determinado. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "BESS",
+    "RCA",
+    "SEIA",
+    "almacenamiento",
+    "almacenamiento de energia",
+    "consulta de pertinencia",
+    "energia",
+    "humedal"
+  ]
+}

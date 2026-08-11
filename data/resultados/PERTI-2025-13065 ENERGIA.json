@@ -1,0 +1,37 @@
+{
+  "id_documento": "PERTI-2025-13065 ENERGIA",
+  "nombre_proyecto": "no determinado",
+  "region": "Region del Maule",
+  "comuna": "Molina",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "almacenamiento de energia, modificacion de proyecto",
+  "proponente": "Ríos Chile Molina SpA",
+  "fecha_resolucion": "28 de noviembre de 2024",
+  "resultado": "no debe ingresar al SEIA",
+  "debe_ingresar_al_seia": false,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Ley N° 19.880",
+    "Reglamento del SEIA"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "no requiere ingresar obligatoriamente al SEIA, en forma",
+      "nivel_confianza": "medio"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2025-13065 ENERGIA. Proyecto: no determinado. Region: Region del Maule. Comuna: Molina. Resultado preliminar: no debe ingresar al SEIA. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "BESS",
+    "RCA",
+    "SEIA",
+    "almacenamiento",
+    "almacenamiento de energia",
+    "consulta de pertinencia",
+    "energia",
+    "humedal",
+    "modificacion de proyecto"
+  ]
+}

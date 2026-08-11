@@ -1,0 +1,38 @@
+{
+  "id_documento": "PERTI-2025-12011 ENERGIA",
+  "nombre_proyecto": "Mejoramiento Tecnológico de la Planta Fotovoltaica Teno IV Solar",
+  "region": "Region del Maule",
+  "comuna": "Teno",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "fotovoltaico, almacenamiento de energia, modificacion de proyecto",
+  "proponente": "Teno Solar IV SpA , solicitó pronunciamiento sobre la pertinencia de ingreso al SEIA del proyecto denominado Mejoramiento Tecnológico de la Planta Fotovoltaica Teno IV Solar",
+  "fecha_resolucion": "11 de octubre de 2024",
+  "resultado": "no debe ingresar al SEIA",
+  "debe_ingresar_al_seia": false,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Ley N° 19.880",
+    "Reglamento del SEIA"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "no requiere ingresar obligatoriamente al SEIA, en forma",
+      "nivel_confianza": "medio"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2025-12011 ENERGIA. Proyecto: Mejoramiento Tecnológico de la Planta Fotovoltaica Teno IV Solar. Region: Region del Maule. Comuna: Teno. Resultado preliminar: no debe ingresar al SEIA. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "BESS",
+    "RCA",
+    "SEIA",
+    "almacenamiento",
+    "almacenamiento de energia",
+    "consulta de pertinencia",
+    "energia",
+    "fotovoltaico",
+    "humedal",
+    "modificacion de proyecto"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id_documento": "PERTI-2026-3349 ENERGIA",
+  "nombre_proyecto": "“Nueva Subestación Seccionadora El FFRLu iear g mczhaóaarnd :: :Q o 0 8D-i0g5it-a2lm02e6n t1e1 p:1o9ur :s5e8l:l2o7d0ig UitaTl",
+  "region": "Region del Maule",
+  "comuna": "Teno",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "no determinado",
+  "proponente": "no determinado",
+  "fecha_resolucion": "09 de marzo de 2026",
+  "resultado": "no determinado",
+  "debe_ingresar_al_seia": null,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Reglamento del SEIA"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "--- Pagina 1 --- REPÚBLICA DE CHILE DIRECCIÓN REGIONAL SERVICIO DE EVALUACIÓN AMBIENTAL REGIÓN DEL MAULE SE PRONUNCIA SOBRE CONSULTA DE PERTINENCIA DE INGRESO AL SEIA DEL PROYECTO “NUEVA SUBESTACIÓN SECCIONADORA EL QUELMÉN 66/13,2 KV”, PRESENTADA POR EL SEÑOR PABLO ESPINOSA AGUIRRE, EN REPRESENTACIÓN DE “ENDELNOR TRANSMISIÓN S.A.”. RESOLUCIÓN EXENT",
+      "nivel_confianza": "bajo"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2026-3349 ENERGIA. Proyecto: “Nueva Subestación Seccionadora El FFRLu iear g mczhaóaarnd :: :Q o 0 8D-i0g5it-a2lm02e6n t1e1 p:1o9ur :s5e8l:l2o7d0ig UitaTl. Region: Region del Maule. Comuna: Teno. Resultado preliminar: no determinado. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "RCA",
+    "SEIA",
+    "consulta de pertinencia",
+    "energia",
+    "humedal"
+  ]
+}

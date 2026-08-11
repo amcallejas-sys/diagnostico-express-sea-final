@@ -1,0 +1,36 @@
+{
+  "id_documento": "PERTI-2026-3616 ENERGIA",
+  "nombre_proyecto": "“Modificación Bess Stand Alone Panimavida”",
+  "region": "Region del Maule",
+  "comuna": "Colbún",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "almacenamiento de energia, modificacion de proyecto",
+  "proponente": "no determinado",
+  "fecha_resolucion": "17 de marzo de 2026",
+  "resultado": "no debe ingresar al SEIA",
+  "debe_ingresar_al_seia": false,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Reglamento del SEIA"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "no se encuentra obligado a ingresar al SEIA por dicha tipología",
+      "nivel_confianza": "medio"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2026-3616 ENERGIA. Proyecto: “Modificación Bess Stand Alone Panimavida”. Region: Region del Maule. Comuna: Colbún. Resultado preliminar: no debe ingresar al SEIA. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "BESS",
+    "RCA",
+    "SEIA",
+    "almacenamiento",
+    "almacenamiento de energia",
+    "consulta de pertinencia",
+    "energia",
+    "humedal",
+    "modificacion de proyecto"
+  ]
+}

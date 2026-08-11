@@ -1,0 +1,37 @@
+{
+  "id_documento": "PERTI-2025-16648 ENERGIA",
+  "nombre_proyecto": "“Optimización e incorporación sistema almacenamiento de energía mediante el uso de baterías (BESS)”",
+  "region": "Region del Maule",
+  "comuna": "Curicó",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "fotovoltaico, almacenamiento de energia, modificacion de proyecto",
+  "proponente": "no determinado",
+  "fecha_resolucion": "27 de noviembre de 2025",
+  "resultado": "no determinado",
+  "debe_ingresar_al_seia": null,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Reglamento del SEIA"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "--- Pagina 1 --- REPÚBLICA DE CHILE DIRECCIÓN REGIONAL SERVICIO DE EVALUACIÓN AMBIENTAL REGIÓN DEL MAULE SE PRONUNCIA SOBRE CONSULTA DE PERTINENCIA DE INGRESO AL SEIA DEL PROYECTO “OPTIMIZACIÓN E INCORPORACIÓN SISTEMA ALMACENAMIENTO DE ENERGÍA MEDIANTE EL USO DE BATERÍAS (BESS)”, PRESENTADA POR MATTHIEU FLORENT VÍCTOR BARBE, REPRESENTANTE LEGAL DE ",
+      "nivel_confianza": "bajo"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2025-16648 ENERGIA. Proyecto: “Optimización e incorporación sistema almacenamiento de energía mediante el uso de baterías (BESS)”. Region: Region del Maule. Comuna: Curicó. Resultado preliminar: no determinado. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "BESS",
+    "RCA",
+    "SEIA",
+    "almacenamiento",
+    "almacenamiento de energia",
+    "consulta de pertinencia",
+    "energia",
+    "fotovoltaico",
+    "humedal",
+    "modificacion de proyecto"
+  ]
+}

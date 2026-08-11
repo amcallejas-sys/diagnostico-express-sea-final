@@ -1,0 +1,34 @@
+{
+  "id_documento": "PERTI-2025-8387 ENERGIA",
+  "nombre_proyecto": "Aumento de capacidad de la Línea 1x66 kV San Javier - Nirivilo , consiste en el reemplazo del conductor actual por uno de mayor capacidad de transporte de la energía",
+  "region": "Region del Maule",
+  "comuna": "San Javier",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "modificacion de proyecto",
+  "proponente": "señala que la situación actual de la línea corresponde a una obra compuesta por una línea de transmisión de simple circuito que opera en 66 kV, construida sobre postes de hormigón, con una capacidad de 30 MVA de potencia, compuesta por un conductor de cobre 2/0 AWG, por fase, con distribución de conductores mayoritariamente en disposición horizontal y triangular. La aislación está compuesta de cadenas de suspensión y anclaje de 4 y 5 de aisladores respectivamente, los aisladores son de vidrio, cerámicos y en algunos casos tiene un aislador polimérico tipo linepost en disposición vertical para la fase central en las estructuras de suspensión. Si bien esta línea abarca desde San Javier a Constitución, el tramo de intervención corresponde a 10 kilómetros aproximadamente, partiendo desde la S/E San Javier y llegando a un seccionamiento que denominamos Nirivilo . Finalmente, es necesario tener presente que las servidumbres eléctricas asociadas a la línea 1x66 kV San Javier Constitución, se constituyeron mediante Decreto de Concesión Eléctrica N°2149, de fecha 13 de octubre de 1964, emitido por el Ministerio del Interior. 8. Que",
+  "fecha_resolucion": "11 de octubre de 2024",
+  "resultado": "no debe ingresar al SEIA",
+  "debe_ingresar_al_seia": false,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Ley N° 19.880",
+    "Reglamento del SEIA"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "no requiere ingresar obligatoriamente al SEIA",
+      "nivel_confianza": "medio"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2025-8387 ENERGIA. Proyecto: Aumento de capacidad de la Línea 1x66 kV San Javier - Nirivilo , consiste en el reemplazo del conductor actual por uno de mayor capacidad de transporte de la energía. Region: Region del Maule. Comuna: San Javier. Resultado preliminar: no debe ingresar al SEIA. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "RCA",
+    "SEIA",
+    "consulta de pertinencia",
+    "energia",
+    "humedal",
+    "modificacion de proyecto"
+  ]
+}

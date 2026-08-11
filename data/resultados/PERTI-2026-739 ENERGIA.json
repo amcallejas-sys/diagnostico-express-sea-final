@@ -1,0 +1,37 @@
+{
+  "id_documento": "PERTI-2026-739 ENERGIA",
+  "nombre_proyecto": "“Parque Solar Fotovoltaico Frangel”",
+  "region": "Region del Maule",
+  "comuna": "Parral",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "fotovoltaico, almacenamiento de energia, modificacion de proyecto",
+  "proponente": "no determinado",
+  "fecha_resolucion": "14 de enero de 2026",
+  "resultado": "no determinado",
+  "debe_ingresar_al_seia": null,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Reglamento del SEIA"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "--- Pagina 1 --- REPÚBLICA DE CHILE DIRECCIÓN REGIONAL SERVICIO DE EVALUACIÓN AMBIENTAL REGIÓN DEL MAULE SE PRONUNCIA SOBRE CONSULTA DE PERTINENCIA DE INGRESO AL SEIA DEL PROYECTO “OPTIMIZACIÓN E INCORPORACIÓN SISTEMA ALMACENAMIENTO DE ENERGÍA BESS PFV FRANGEL”, PRESENTADA POR EL SEÑOR MATTHIEU FLORENT VICTOR BARBE, EN REPRESENTACIÓN DE FRANGEL SPA",
+      "nivel_confianza": "bajo"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2026-739 ENERGIA. Proyecto: “Parque Solar Fotovoltaico Frangel”. Region: Region del Maule. Comuna: Parral. Resultado preliminar: no determinado. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "BESS",
+    "RCA",
+    "SEIA",
+    "almacenamiento",
+    "almacenamiento de energia",
+    "consulta de pertinencia",
+    "energia",
+    "fotovoltaico",
+    "humedal",
+    "modificacion de proyecto"
+  ]
+}

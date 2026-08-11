@@ -1,0 +1,34 @@
+{
+  "id_documento": "PERTI-2025-17829 ENERGIA",
+  "nombre_proyecto": "“Adecuaciones trazado línea 2x66kV Nueva Nirivilo Constitución”",
+  "region": "Region del Maule",
+  "comuna": "San Javier hasta la comuna de Constitución en la Región del Maule",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "modificacion de proyecto",
+  "proponente": "no determinado",
+  "fecha_resolucion": "24 de diciembre de 2025",
+  "resultado": "no determinado",
+  "debe_ingresar_al_seia": null,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Reglamento del SEIA"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "--- Pagina 1 --- REPÚBLICA DE CHILE DIRECCIÓN REGIONAL SERVICIO DE EVALUACIÓN AMBIENTAL REGIÓN DEL MAULE SE PRONUNCIA SOBRE CONSULTA DE PERTINENCIA DE INGRESO AL SEIA DEL PROYECTO “ADECUACIONES TRAZADO LÍNEA 2X66KV NUEVA NIRIVILO CONSTITUCIÓN”, PRESENTADA POR EL SEÑOR ALAN HEINEN ALVES DA SILVA, EN REPRESENTACIÓN DE “NIRIVILO TRANSMISORA DE ENERGÍA",
+      "nivel_confianza": "bajo"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2025-17829 ENERGIA. Proyecto: “Adecuaciones trazado línea 2x66kV Nueva Nirivilo Constitución”. Region: Region del Maule. Comuna: San Javier hasta la comuna de Constitución en la Región del Maule. Resultado preliminar: no determinado. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "RCA",
+    "SEIA",
+    "almacenamiento",
+    "consulta de pertinencia",
+    "energia",
+    "humedal",
+    "modificacion de proyecto"
+  ]
+}

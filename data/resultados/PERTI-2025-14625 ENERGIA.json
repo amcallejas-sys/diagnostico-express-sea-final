@@ -1,0 +1,33 @@
+{
+  "id_documento": "PERTI-2025-14625 ENERGIA",
+  "nombre_proyecto": "BESS Salvador",
+  "region": "Region del Maule",
+  "comuna": "no determinado",
+  "tipo_proyecto": "energia",
+  "subtipo_proyecto": "almacenamiento de energia, modificacion de proyecto",
+  "proponente": "S-Energy Chile SpA",
+  "fecha_resolucion": "12 de septiembre de 2013",
+  "resultado": "no determinado",
+  "debe_ingresar_al_seia": null,
+  "normativa_citada": [
+    "Ley N° 19.300",
+    "Ley N° 19.880"
+  ],
+  "criterios_sea": [
+    {
+      "criterio": "Pronunciamiento sobre ingreso obligatorio al SEIA",
+      "explicacion": "Extraccion inicial por reglas. Este criterio debe revisarse manualmente antes de usarlo como conclusion tecnica.",
+      "fragmento_respaldo": "--- Pagina 1 --- REPÚBLICA DE CHILE SERVICIO DE EVALUACIÓN AMBIENTAL REGIÓN DEL MAULE DECLARA DESISTIMIENTO A CONSULTA DE PERTINENCIA DE INGRESO A SEIA DE BESS SALVADOR , SOLICITADO POR EL SR. SIN YOUNG HAN, EN S- ENERGY CHILE SPA . RESOLUCIÓN EXENTA VISTOS: 1. Lo dispuesto en la Ley N° 19.300, sobre Bases Generales del Medio Ambiente, publicada en",
+      "nivel_confianza": "bajo"
+    }
+  ],
+  "resumen_ejecutivo": "Documento PERTI-2025-14625 ENERGIA. Proyecto: BESS Salvador. Region: Region del Maule. Comuna: no determinado. Resultado preliminar: no determinado. Informacion extraida automaticamente y sujeta a revision humana.",
+  "palabras_clave": [
+    "BESS",
+    "SEIA",
+    "almacenamiento de energia",
+    "consulta de pertinencia",
+    "energia",
+    "modificacion de proyecto"
+  ]
+}
